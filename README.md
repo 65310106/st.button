@@ -1,4 +1,4 @@
-# st.button
+# st
 
 `st.button` allows the display of a button widget.
 
